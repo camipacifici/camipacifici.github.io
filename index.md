@@ -12,10 +12,10 @@ Welcome to my brand new webpage! I will update the content slowly, stay tuned!
 
 # Contacts
 
-Space Telescope Science Institute
-3700 San Martin Dr
-Baltimore, MD 21211, USA
+Space Telescope Science Institute  
+3700 San Martin Dr  
+Baltimore, MD 21211, USA  
 
-Emails: cpacifici AT stsci DOT edu, camilla.pacifici AT gmail DOT com
+Emails: cpacifici AT stsci DOT edu, camilla.pacifici AT gmail DOT com  
 Twitter: @cami_pacifici
 
