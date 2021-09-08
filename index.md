@@ -1,8 +1,8 @@
-# Welcome!
+## Welcome!
 
 Welcome to my brand new webpage! I will update the content slowly, stay tuned!
 
-# What are you looking for?
+## What are you looking for?
 
 - Research and Collaborations
 - JWST NIRISS
@@ -10,7 +10,7 @@ Welcome to my brand new webpage! I will update the content slowly, stay tuned!
 - The JWebbinars
 - CV
 
-# Contacts
+## Contacts
 
 Space Telescope Science Institute  
 3700 San Martin Dr  
